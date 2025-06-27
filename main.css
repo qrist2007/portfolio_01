@@ -4,3 +4,7 @@
     --c-theme-dark:#940;
     --c-theme-accent: #e02;
 }
+.icons{
+    display: grid;
+    grid-template-columns: repeat();
+}
